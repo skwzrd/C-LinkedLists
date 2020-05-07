@@ -1,4 +1,4 @@
-### Singly Linked List Functions
+### Singly Linked List Operations
 
 - Push head
 - Push tail
